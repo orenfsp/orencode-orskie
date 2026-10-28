@@ -1,0 +1,10 @@
+﻿node_modules/
+db.sqlite
+db.sqlite-shm
+db.sqlite-wal
+.env
+logs/
+*.log
+.DS_Store
+uploads/*
+!uploads/.gitkeep
